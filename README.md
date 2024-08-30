@@ -1,3 +1,1 @@
-# 1. Profil Card
-Project from the 100 Front End Challenges list coming from Adrian founder of BigDevSoon
---SeijuuroShin6--
+# 1.-Profil-Card
